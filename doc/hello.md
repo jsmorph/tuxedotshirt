@@ -53,7 +53,8 @@ I've been building and operating software for a long time.  Recently I was the c
 
 ## Papers
 6. Gunasekar, et al., 2023, ["Textbooks Are All You Need"](https://arxiv.org/abs/2306.11644)
-7. Jiang, et al., 2023, ["Guiding Formal Theorem Provers with Informal Proofs"](https://arxiv.org/pdf/2210.12283.pdf)
+7. Han, et al., 2021, ["Proof Artifact Co-training for Theorem Proving with Language Models"](https://arxiv.org/abs/2102.06203)
+8. Jiang, et al., 2023, ["Guiding Formal Theorem Provers with Informal Proofs"](https://arxiv.org/pdf/2210.12283.pdf)
 9. Polu, et al., 2022, ["Formal Mathematics Statement Curriculum Learning"](https://arxiv.org/pdf/2202.01344)
 10. Yang, et al., 2019, ["(CogGym) Learning to Prove Theorems via Interacting with Proof Assistants"](https://arxiv.org/abs/1905.09381)
 9. Yang, et al., 2023, ["LeanDojo: Theorem Proving with Retrieval-Augmented Language Models"](https://arxiv.org/abs//2306.15626)
