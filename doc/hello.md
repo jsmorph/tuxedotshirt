@@ -62,5 +62,6 @@ I've been building and operating software for a long time.  Recently I was the c
 6. Gunasekar, et al., 2023, ["Textbooks Are All You Need"](https://arxiv.org/abs/2306.11644)
 7. Jiang, et al., 2023, ["Guiding Formal Theorem Provers with Informal Proofs"](https://arxiv.org/pdf/2210.12283.pdf)
 8. Yang, et al., 2023, ["LeanDojo: Theorem Proving with Retrieval-Augmented Language Models"](https://arxiv.org/abs//2306.15626)
-9. [AI to Assist Mathematical Reasoning: A Workshop](https://www.nationalacademies.org/event/06-12-2023/ai-to-assist-mathematical-reasoning-a-workshop), National Academies, 2023
-10. Naughton, Jr., 2006, ["I want to be formal, but I'm here to party"](https://youtu.be/XW9_V9O3L1A)
+9. Polu, et al., 2022, ["Formal Mathematics Statement Curriculum Learning"](https://arxiv.org/pdf/2202.01344.pdf)
+10. [AI to Assist Mathematical Reasoning: A Workshop](https://www.nationalacademies.org/event/06-12-2023/ai-to-assist-mathematical-reasoning-a-workshop), National Academies, 2023
+11. Naughton, Jr., 2006, ["I want to be formal, but I'm here to party"](https://youtu.be/XW9_V9O3L1A)
