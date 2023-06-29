@@ -64,7 +64,8 @@ I've been building and operating software for a long time.  Recently I was the c
 1. [Lean 4](https://github.com/leanprover/lean4) proof assistant
 2. [Coq](https://coq.inria.fr/) proof assistant
 3. [`mathlib4`](https://github.com/leanprover-community/mathlib4)
-4. Verified software
+4. [Alectryon](https://github.com/cpitclaudel/alectryon)
+5. Verified software
     1. [Software Foundations](https://softwarefoundations.cis.upenn.edu/)
     2. [Verified Software Toolchain](https://vst.cs.princeton.edu/)
     3. [Verifiable C](https://softwarefoundations.cis.upenn.edu/current/vc-current/Verif_sumarray.html)
