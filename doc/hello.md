@@ -72,5 +72,6 @@ I've been building and operating software for a long time.  Recently I was the c
     3. [Verifiable C](https://softwarefoundations.cis.upenn.edu/current/vc-current/Verif_sumarray.html)
     4. [Introduction to the Coq proof-assistant for practical software verification](https://www.lri.fr/~paulin/LASER/course-notes.pdf)
 11. [AI to Assist Mathematical Reasoning: A Workshop](https://www.nationalacademies.org/event/06-12-2023/ai-to-assist-mathematical-reasoning-a-workshop), National Academies, 2023
-12. Naughton, Jr., 2006, ["I want to be formal, but I'm here to party"](https://youtu.be/XW9_V9O3L1A)
+12. Roberts, S, 2023, ["A.I. Is Coming for Mathematics, Too"](https://www.nytimes.com/2023/07/02/science/ai-mathematics-machine-learning.html)
+13. Naughton, Jr., 2006, ["I want to be formal, but I'm here to party"](https://youtu.be/XW9_V9O3L1A)
 
